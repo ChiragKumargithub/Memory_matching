@@ -43,17 +43,24 @@ The main objective of this project is to improve memory and concentration skills
 MemoryMatchFlutter/
 │
 ├── android/
+│
 ├── ios/
+│
 ├── lib/
 │   └── main.dart
+│
 ├── web/
-├── pubspec.yaml
-├── README.pdf
+│
+├── assets/
+│
 ├── screenshots/
 │   ├── image.png
 │   ├── image (1).png
 │   └── image (2).png
-└── assets/
+│
+├── pubspec.yaml
+│
+└── README.pdf
 
 
 This project demonstrates the implementation of Flutter widgets, state management, UI design, and game logic using the Dart programming language. The application provides an engaging and interactive memory game experience with responsive design and smooth functionality across multiple platforms.
